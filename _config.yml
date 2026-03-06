@@ -1,16 +1,16 @@
 # Site-wide settings
 # ------------------
 
-# title: Bryson's Lab 2
+title: Bryson's Lab 2
 
-# author:
-#   name: Bryson DeLozier
-#   email: delozierbd@hendrix.edu
+author:
+  name: Bryson DeLozier
+  email: delozierbd@hendrix.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
-# description: >
-#   This is my blog for lab 2!
+description: >
+  This is my blog for lab 2!
 
 
 # Build settings
