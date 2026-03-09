@@ -12,7 +12,7 @@
         <label for="nav-trigger">
           <span class="menu-icon"></span>
         </label>
-        <a class="site-title" rel="author" href="{{ 'CSCI 340 Home Page' | https://hendrix-cs.github.io/csci340/ }}">{{ site.title | escape }}</a>
+        <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ CSCI 340 Home Page | https://hendrix-cs.github.io/csci340/ }}</a>
         {% include nav-items.html paths = page_paths %}
       </nav>
     {%- endunless %}
